@@ -23,6 +23,5 @@ Customer segmentation helps businesses identify different customer groups and de
 ✅ Clean the data by handling missing and incorrect values  
 ✅ Calculate **RFM metrics** for customer segmentation  
 ✅ Apply **K-Means clustering** to group customers  
-✅ Visualize and interpret the segmentation results  
 
 This project aims to develop an effective **data-driven customer segmentation approach** to better understand customer behavior and improve business decisions. 🚀  
